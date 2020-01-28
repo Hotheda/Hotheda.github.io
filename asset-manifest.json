@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2356302a.chunk.css",
-    "main.js": "/static/js/main.4f16e28c.chunk.js",
-    "main.js.map": "/static/js/main.4f16e28c.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.4e81ba5b.chunk.js": "/static/js/2.4e81ba5b.chunk.js",
-    "static/js/2.4e81ba5b.chunk.js.map": "/static/js/2.4e81ba5b.chunk.js.map",
+    "main.css": "/static/css/main.e09b76b8.chunk.css",
+    "main.js": "/static/js/main.550a08a8.chunk.js",
+    "main.js.map": "/static/js/main.550a08a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.59c12dea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.59c12dea.js.map",
+    "static/js/2.f5d66a61.chunk.js": "/static/js/2.f5d66a61.chunk.js",
+    "static/js/2.f5d66a61.chunk.js.map": "/static/js/2.f5d66a61.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.74a29ff064a5c08fb6aca9cb3d372cce.js": "/precache-manifest.74a29ff064a5c08fb6aca9cb3d372cce.js",
+    "precache-manifest.cb9d5fb4c2e4ce21cb71501ec02d259d.js": "/precache-manifest.cb9d5fb4c2e4ce21cb71501ec02d259d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2356302a.chunk.css.map": "/static/css/main.2356302a.chunk.css.map",
+    "static/css/main.e09b76b8.chunk.css.map": "/static/css/main.e09b76b8.chunk.css.map",
+    "static/js/2.f5d66a61.chunk.js.LICENSE": "/static/js/2.f5d66a61.chunk.js.LICENSE",
     "static/media/at-solid.9571ceae.svg": "/static/media/at-solid.9571ceae.svg",
     "static/media/css3-brands.ea7920ed.svg": "/static/media/css3-brands.ea7920ed.svg",
     "static/media/github-brands.ec5bc1b3.svg": "/static/media/github-brands.ec5bc1b3.svg",
@@ -23,5 +24,11 @@
     "static/media/nexus-schema1.png": "/static/media/nexus-schema1.62f4d15c.png",
     "static/media/nexus-schema2.png": "/static/media/nexus-schema2.92525dd1.png",
     "static/media/react-brands.d8cf7740.svg": "/static/media/react-brands.d8cf7740.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59c12dea.js",
+    "static/js/2.f5d66a61.chunk.js",
+    "static/css/main.e09b76b8.chunk.css",
+    "static/js/main.550a08a8.chunk.js"
+  ]
 }
