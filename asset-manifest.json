@@ -1,34 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.84dcaad7.chunk.css",
-    "main.js": "/static/js/main.03ad811c.chunk.js",
-    "main.js.map": "/static/js/main.03ad811c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.59c12dea.js",
-    "runtime-main.js.map": "/static/js/runtime-main.59c12dea.js.map",
-    "static/js/2.f5d66a61.chunk.js": "/static/js/2.f5d66a61.chunk.js",
-    "static/js/2.f5d66a61.chunk.js.map": "/static/js/2.f5d66a61.chunk.js.map",
+    "main.css": "/static/css/main.54ac00fd.chunk.css",
+    "main.js": "/static/js/main.f48f4232.chunk.js",
+    "main.js.map": "/static/js/main.f48f4232.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.652dea17.chunk.js": "/static/js/2.652dea17.chunk.js",
+    "static/js/2.652dea17.chunk.js.map": "/static/js/2.652dea17.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4a31b3bc804166c505b49903e53eea1e.js": "/precache-manifest.4a31b3bc804166c505b49903e53eea1e.js",
+    "precache-manifest.21834254f585a107551ad6d2e15cce70.js": "/precache-manifest.21834254f585a107551ad6d2e15cce70.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.84dcaad7.chunk.css.map": "/static/css/main.84dcaad7.chunk.css.map",
-    "static/js/2.f5d66a61.chunk.js.LICENSE": "/static/js/2.f5d66a61.chunk.js.LICENSE",
+    "static/css/main.54ac00fd.chunk.css.map": "/static/css/main.54ac00fd.chunk.css.map",
     "static/media/at-solid.9571ceae.svg": "/static/media/at-solid.9571ceae.svg",
-    "static/media/css3-brands.ea7920ed.svg": "/static/media/css3-brands.ea7920ed.svg",
+    "static/media/bgcomputer.jpg": "/static/media/bgcomputer.8064548c.jpg",
     "static/media/github-brands.ec5bc1b3.svg": "/static/media/github-brands.ec5bc1b3.svg",
-    "static/media/html5-brands.99325d4e.svg": "/static/media/html5-brands.99325d4e.svg",
-    "static/media/java-brands.bda0493a.svg": "/static/media/java-brands.bda0493a.svg",
-    "static/media/js-brands.3094c423.svg": "/static/media/js-brands.3094c423.svg",
     "static/media/linkedin-brands.d9049f46.svg": "/static/media/linkedin-brands.d9049f46.svg",
     "static/media/nexus-falt1.png": "/static/media/nexus-falt1.628432e6.png",
     "static/media/nexus-falt2.png": "/static/media/nexus-falt2.a9f0b871.png",
     "static/media/nexus-schema1.png": "/static/media/nexus-schema1.a4f680ad.png",
-    "static/media/nexus-schema2.png": "/static/media/nexus-schema2.1b839b44.png",
-    "static/media/react-brands.d8cf7740.svg": "/static/media/react-brands.d8cf7740.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.59c12dea.js",
-    "static/js/2.f5d66a61.chunk.js",
-    "static/css/main.84dcaad7.chunk.css",
-    "static/js/main.03ad811c.chunk.js"
-  ]
+    "static/media/nexus-schema2.png": "/static/media/nexus-schema2.1b839b44.png"
+  }
 }
