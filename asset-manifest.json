@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.54ac00fd.chunk.css",
+    "main.css": "/static/css/main.30ed9067.chunk.css",
     "main.js": "/static/js/main.f48f4232.chunk.js",
     "main.js.map": "/static/js/main.f48f4232.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.652dea17.chunk.js": "/static/js/2.652dea17.chunk.js",
     "static/js/2.652dea17.chunk.js.map": "/static/js/2.652dea17.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.21834254f585a107551ad6d2e15cce70.js": "/precache-manifest.21834254f585a107551ad6d2e15cce70.js",
+    "precache-manifest.0cf2a86f6a9d4c85a1c2267c0d3ef028.js": "/precache-manifest.0cf2a86f6a9d4c85a1c2267c0d3ef028.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.54ac00fd.chunk.css.map": "/static/css/main.54ac00fd.chunk.css.map",
+    "static/css/main.30ed9067.chunk.css.map": "/static/css/main.30ed9067.chunk.css.map",
     "static/media/at-solid.9571ceae.svg": "/static/media/at-solid.9571ceae.svg",
     "static/media/bgcomputer.jpg": "/static/media/bgcomputer.8064548c.jpg",
     "static/media/github-brands.ec5bc1b3.svg": "/static/media/github-brands.ec5bc1b3.svg",
