@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calvin/static/css/main.1bcd6fef.chunk.css",
-    "main.js": "/calvin/static/js/main.33d5f112.chunk.js",
-    "main.js.map": "/calvin/static/js/main.33d5f112.chunk.js.map",
+    "main.css": "/calvin/static/css/main.d230029b.chunk.css",
+    "main.js": "/calvin/static/js/main.71dc21d5.chunk.js",
+    "main.js.map": "/calvin/static/js/main.71dc21d5.chunk.js.map",
     "runtime~main.js": "/calvin/static/js/runtime~main.b6a2d425.js",
     "runtime~main.js.map": "/calvin/static/js/runtime~main.b6a2d425.js.map",
-    "static/js/2.26a87168.chunk.js": "/calvin/static/js/2.26a87168.chunk.js",
-    "static/js/2.26a87168.chunk.js.map": "/calvin/static/js/2.26a87168.chunk.js.map",
+    "static/js/2.040708a3.chunk.js": "/calvin/static/js/2.040708a3.chunk.js",
+    "static/js/2.040708a3.chunk.js.map": "/calvin/static/js/2.040708a3.chunk.js.map",
     "index.html": "/calvin/index.html",
-    "precache-manifest.efd78129847b4e9a56aa67b4b82c2214.js": "/calvin/precache-manifest.efd78129847b4e9a56aa67b4b82c2214.js",
+    "precache-manifest.0ee34295054eaec7862b29da4f414b54.js": "/calvin/precache-manifest.0ee34295054eaec7862b29da4f414b54.js",
     "service-worker.js": "/calvin/service-worker.js",
-    "static/css/main.1bcd6fef.chunk.css.map": "/calvin/static/css/main.1bcd6fef.chunk.css.map"
+    "static/css/main.d230029b.chunk.css.map": "/calvin/static/css/main.d230029b.chunk.css.map"
   }
 }
