@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calvin/static/css/main.c536d0d3.chunk.css",
-    "main.js": "/calvin/static/js/main.47d9c60b.chunk.js",
-    "main.js.map": "/calvin/static/js/main.47d9c60b.chunk.js.map",
+    "main.css": "/calvin/static/css/main.fea991b0.chunk.css",
+    "main.js": "/calvin/static/js/main.1d752941.chunk.js",
+    "main.js.map": "/calvin/static/js/main.1d752941.chunk.js.map",
     "runtime~main.js": "/calvin/static/js/runtime~main.b6a2d425.js",
     "runtime~main.js.map": "/calvin/static/js/runtime~main.b6a2d425.js.map",
     "static/js/2.040708a3.chunk.js": "/calvin/static/js/2.040708a3.chunk.js",
     "static/js/2.040708a3.chunk.js.map": "/calvin/static/js/2.040708a3.chunk.js.map",
     "index.html": "/calvin/index.html",
-    "precache-manifest.c342d6eae174f030ee99ea671e0041db.js": "/calvin/precache-manifest.c342d6eae174f030ee99ea671e0041db.js",
+    "precache-manifest.fd2a33e423f5d19a815797aaa68fa77b.js": "/calvin/precache-manifest.fd2a33e423f5d19a815797aaa68fa77b.js",
     "service-worker.js": "/calvin/service-worker.js",
-    "static/css/main.c536d0d3.chunk.css.map": "/calvin/static/css/main.c536d0d3.chunk.css.map"
+    "static/css/main.fea991b0.chunk.css.map": "/calvin/static/css/main.fea991b0.chunk.css.map"
   }
 }
